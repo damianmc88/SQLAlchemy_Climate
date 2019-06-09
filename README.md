@@ -6,15 +6,15 @@ Developed a climate analysis API
 - Climate Analysis and Exploration
   - Precipitation
   
-  ![](ReadMe_Images/Precip.jpg)
+  ![](ReadMe_Images/Precip.JPG)
   
   - Station
   
-  ![](ReadMe_Images/Station.jpg)
+  ![](ReadMe_Images/Station.JPG)
   
   - Temperture
   
-  ![](ReadMe_Images/Temp.jpg)
+  ![](ReadMe_Images/Temp.JPG)
  
 - Climate App
 
